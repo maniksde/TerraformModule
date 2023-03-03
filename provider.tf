@@ -1,4 +1,4 @@
 provider "google"{
-    project = "o-media-2"
+    project = "o-media-practice"
     region = "us-central1"
 }
